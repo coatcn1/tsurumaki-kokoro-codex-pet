@@ -2,6 +2,8 @@
 
 一个用于 Codex 的非官方自定义动态宠物。它以《BanG Dream!》中的弦卷心（Tsurumaki Kokoro）为灵感，采用平涂 Q 版角色风格，并包含完整的 11 行 v2 精灵图动画。
 
+![弦卷心 Codex Pet 精灵图预览](assets/spritesheet-preview.png)
+
 ## 内容
 
 - 显示名称：`弦卷心`
